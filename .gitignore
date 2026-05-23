@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+dataset/
+models/
+data/
+*.csv
+.env
+*.png
+Procfile
+runtime.txt
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
