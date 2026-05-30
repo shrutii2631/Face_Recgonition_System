@@ -26,4 +26,4 @@ docker run -p 5000:5000 aniketrai07/face-attendance:v1
 ```
 
 ## Author
-Aniket Kumar Rai
+Shruti
